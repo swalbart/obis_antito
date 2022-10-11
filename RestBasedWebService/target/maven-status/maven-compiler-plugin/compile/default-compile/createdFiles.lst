@@ -1,0 +1,13 @@
+th\obi\rest\repository\RouteRepository.class
+th\obi\rest\entity\Device.class
+th\obi\rest\entity\Route.class
+th\obi\rest\controller\DeviceController.class
+th\obi\rest\repository\DeviceRepository.class
+th\obi\rest\repository\LocationRepository.class
+th\obi\rest\controller\LocationController.class
+th\obi\rest\controller\RouteController.class
+th\obi\rest\repository\EmergencyContactRepository.class
+th\obi\rest\controller\EmergencyContactController.class
+th\obi\rest\entity\Location.class
+th\obi\rest\RestBasedWebService.class
+th\obi\rest\entity\EmergencyContact.class
